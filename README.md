@@ -33,6 +33,8 @@ Welcome to the AutoBook Car Rental App repository. This application is designed 
 
     ```bash
     npm install
+    
+    npm run build
     ```
 4. Run development server
 
