@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    // "./index.html",
+    "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   mode: "jit",
@@ -24,8 +24,8 @@ export default {
         grey: "#747A88",
       },
       backgroundImage: {
-        'pattern': "url('./src/assets/images/pattern.png')",
-        'hero-bg': "url('./src/assets/images/hero-bg.png')"
+        'pattern': "url('/src/assets/images/pattern.png')",
+        'hero-bg': "url('/src/assets/images/hero-bg.png')"
       }
     },
   },
