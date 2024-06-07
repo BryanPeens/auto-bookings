@@ -24,7 +24,7 @@ const Hero = () => {
         <div className="hero__image">
           <img src={heroImage} alt="hero" className="object-contain" />
         </div>
-        <div className="hero__image-overlay md:block absolute xl:-top-24 xl:-right-1/2 -right-1/4 bg-hero-bg bg-repeat-round -z-10 w-full xl:h-screen h-[590px] overflow-hidden" />
+        <div className="hero__image-overlay" />
       </div>
     </div>
   );
