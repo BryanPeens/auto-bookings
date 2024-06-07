@@ -4,7 +4,7 @@
 Welcome to the AutoBook Car Rental App repository. This application is designed to provide users with a seamless car rental experience. Built using React, the app features a user-friendly interface, a wide selection of vehicles, easy booking processes, and robust customer support functionalities.
 
 ## Links
-* [Live Application](https://AutoBook-carrentalapp.netlify.app)
+* [Live Application](https://autobook.netlify.app)
 * [GitHub Repository](git@github.com:BryanPeens/auto-bookings.git)
 
 ## Technologies Used

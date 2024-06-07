@@ -48,7 +48,7 @@ export default function Contact() {
   };
 
   return (
-    <div name="contact" className="w-full mt-16 bg-gray-100">
+    <div name="contact" className="w-full mt-16">
       {/* Contact form */}
       <div className="py-12 flex justify-center items-center px-6 min-h-screen">
         <form
